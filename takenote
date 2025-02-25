@@ -1,0 +1,12 @@
+use these to install tailwind in this project
+npm install -D tailwindcss@3 postcss autoprefixer
+npx tailwindcss init -p
+
+on the tailwind website, make sure to change the version when following the installation guidelines
+
+
+jsdeliver
+
+https://scrollrevealjs.org/
+
+https://swiperjs.com/
